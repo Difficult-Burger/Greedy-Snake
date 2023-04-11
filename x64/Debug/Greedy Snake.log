@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\30706\Desktop\贪吃蛇\Greedy Snake\源.cpp(75,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30706\Desktop\贪吃蛇\Greedy Snake\源.cpp(83,23): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  Greedy Snake.vcxproj -> C:\Users\30706\Desktop\贪吃蛇\Greedy Snake\x64\Debug\Greedy Snake.exe
